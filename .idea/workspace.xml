@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28f1182e-d9e3-4370-bf16-6c5f06b1f9d4" name="Changes" comment="person class complete">
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CircleTest.java" afterDir="false" />
+    <list default="true" id="28f1182e-d9e3-4370-bf16-6c5f06b1f9d4" name="Changes" comment="added a circle class">
+      <change afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +47,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CircleTest">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Library">
     <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CircleTest" />
+      <module name="PersonCreator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Library" />
       <module name="PersonCreator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Library" />
         <item itemvalue="Application.CircleTest" />
         <item itemvalue="Application.Main" />
       </list>
@@ -76,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693316197638</updated>
-      <workItem from="1693316198821" duration="3264000" />
+      <workItem from="1693316198821" duration="3971000" />
     </task>
     <task id="LOCAL-00001" summary="created project">
       <option name="closed" value="true" />
@@ -102,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693318657806</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added a circle class">
+      <option name="closed" value="true" />
+      <created>1693319657395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693319657395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +134,7 @@
     <MESSAGE value="created project" />
     <MESSAGE value="added 2 people and printing their values" />
     <MESSAGE value="person class complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="person class complete" />
+    <MESSAGE value="added a circle class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a circle class" />
   </component>
 </project>
